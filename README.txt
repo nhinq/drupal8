@@ -1,5 +1,4 @@
-DEV README/CHANGE/Feature-1
-
+DEV README/CHANGE/Feature-1/Feature-2
 
 CONTENTS OF THIS FILE
 ---------------------
