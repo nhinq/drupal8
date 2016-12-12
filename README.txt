@@ -1,4 +1,4 @@
-DEV README
+DEV README/CHANGE
 
 CONTENTS OF THIS FILE
 ---------------------
